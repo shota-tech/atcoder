@@ -37,6 +37,8 @@ q, mod = divmod(10, 3)
 # 四捨五入
 f = 123.45
 f2 = (Decimal(str(f))).quantize(Decimal("0.1"), rounding=ROUND_HALF_UP)  # 123.5
+# ゼロ埋め
+s = str(123).zfill(4)  # 01234
 
 a, b = 4, 6
 # 最大公約数
