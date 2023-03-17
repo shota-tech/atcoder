@@ -1,5 +1,3 @@
 # AtCoder
 
-## 概要
-- AtCoder の過去問及びコンテストで解答したコードを管理する。
-- デバッグ用の各種設定ファイルを管理する。
+A repository for AtCoder solutions and debug configurations.
